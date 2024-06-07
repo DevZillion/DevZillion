@@ -9,5 +9,5 @@
 </div>
 
 ```math
-\ce{$\unicode[background; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 300vw; opacity: 1; background: url('https://github.com/DevZillion/DevZillion/assets/77107077/071ffd32-db6c-462d-89a9-7b4576f30992');]{x0000}$}
+\ce{$\unicode[background; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 300vw; opacity: 1; background: url('https://github.com/DevZillion/DevZillion/assets/77107077/6ab78487-34ef-447a-84ff-6469a8fd3b79');]{x0000}$}
 ```
